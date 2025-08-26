@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-               git branch: 'master', url: 'https://github.com/Sathya252/milestone-rohith.git'
+               git branch: 'master', url: ''https://github.com/syaddays/addresbook-cicd-project'
             }
         }
 
