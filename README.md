@@ -22,7 +22,7 @@ designed. Please note this example uses and requires Java 8 to work..
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
-
+https://docs.google.com/document/d/1sAQCSHqsYRSSf9jpxg7cBoNAm1llFaREX9iweZjqh2g/edit?usp=drivesdk
 Running the example from the command line
 -------------------
 ```
