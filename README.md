@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1OHB9GzpbHcBFEjcijRXpMUYVDbSoj7TT/edit?usp=drivesdk&ouid=103078188788721647161&rtpof=true&sd=trueTHis is the readme content and let me update and we are learning.....updated content
+
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhhvbbsdadssd
 this is test adasdasdsadasasasdasdasdads sfsdfs
 this is our first change and change and eit test asdas this is the furst cibtebrt dsdasdasd
@@ -15,7 +15,6 @@ this is the update
 this is newipdate
 hi this is new change
 ==================== d
-https://docs.google.com/document/d/1vYguHEBVTNdQR1m5rPjyRpPYhrcB-xsFw8sj8zOzUSE/edit?usp=drivesdk
 ddooiouo
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
@@ -23,7 +22,7 @@ designed. Please note this example uses and requires Java 8 to work..
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
-https://docs.google.com/document/d/1sAQCSHqsYRSSf9jpxg7cBoNAm1llFaREX9iweZjqh2g/edit?usp=drivesdk
+
 Running the example from the command line
 -------------------
 ```
@@ -82,4 +81,3 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this applications
 
 *** End of documentation
-https://docs.google.com/document/d/1mhSlATlj_6IqNafIdHK4-zv0GAqNOlpniK6nvBeu0KQ/edit?usp=drivesdk
